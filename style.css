@@ -1,0 +1,20 @@
+section .container .row .words {
+    width: 30%;
+
+}
+
+section .container .row .image {
+    height: auto;
+    width: auto;
+}
+
+section .container .row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.All .words button {
+    border-radius: 2px;
+    background-color: aquamarine;
+    
+}
